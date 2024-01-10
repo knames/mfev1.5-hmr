@@ -12,7 +12,7 @@ module.exports = {
   context: __dirname,
   output: {
     // set uniqueName explicitly to make react-refresh works
-    uniqueName: "lib1"
+    uniqueName: "mfeBBB"
   },
   optimization: {
     runtimeChunk: true,

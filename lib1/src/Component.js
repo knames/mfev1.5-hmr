@@ -12,7 +12,7 @@ const Component = ({ locale }) => {
 	}, [abc]);
 	return (<div style={{ border: "5px solid darkblue" }}>
 		<p>I'm a Component exposed from lib!</p>
-		<p>Change me 12</p>
+		<p>Change me 15</p>
 		{abc}
 		<p>
 			Using date-fn in Remote:{" "}
